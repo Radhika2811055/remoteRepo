@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Radhika2811055/remoteRepo/issues"
   },
-  "homepage": "https://github.com/Radhika2811055/remoteRepo#readme"
+  "homepage": "https://github.com/Radhika2811055/remoteRepo#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
 }
