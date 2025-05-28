@@ -1,0 +1,19 @@
+{
+  "name": "remoterepo",
+  "version": "1.0.0",
+  "description": "This is a demo repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radhika2811055/remoteRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radhika2811055/remoteRepo/issues"
+  },
+  "homepage": "https://github.com/Radhika2811055/remoteRepo#readme"
+}
